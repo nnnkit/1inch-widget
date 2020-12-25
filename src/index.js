@@ -32,6 +32,6 @@ export function init() {
     >
       <App />
     </UseWalletProvider>,
-    document.getElementById('1inchWidget')
+    document.getElementById('oneInchWidget')
   );
 }

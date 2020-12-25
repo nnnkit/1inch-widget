@@ -15,7 +15,7 @@ module.exports = {
   output: {
     path: paths.build,
     filename: 'bundle.js',
-    library: '1inchWidget',
+    library: 'oneInchWidget',
     libraryTarget: 'umd',
     umdNamedDefine: true,
   },
